@@ -58,7 +58,7 @@ p {
 
 /* ***************header****************** */
 
-    {
+header {
     background-image: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, .1)), url(../images/donation6.jpg);
     height: 100vh;
     background-repeat: no-repeat;
